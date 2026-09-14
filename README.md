@@ -1,4 +1,4 @@
-# DDPM vs Full-Covariance GMM on Two Moons
+# Implementation and Empirical Evaluation of DDPM vs. GMM on Two Moons
 
 This repository contains the implementation and experimental materials for a CSE756 Modern Probabilistic Machine Learning project comparing a Denoising Diffusion Probabilistic Model (DDPM) with a full-covariance Gaussian Mixture Model (GMM) on the Two Moons distribution.
 
