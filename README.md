@@ -1,1 +1,1 @@
-# Modern_Probabilistic_Machine_Learning
+# Modern_Probabilistic_Machine_Learning_Project
